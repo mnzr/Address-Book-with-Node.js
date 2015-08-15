@@ -7,4 +7,8 @@ Contact.parseName = function (str) {
     return str.split(',')[0];
 }
 
+Contact.parseNumber = function (str) {
+    return str.split(',')[1];
+}
+
 module.exports = Contact
