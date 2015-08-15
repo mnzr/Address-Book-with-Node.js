@@ -1,0 +1,24 @@
+{
+  "name": "address_book",
+  "version": "1.0.0",
+  "description": "A test address book app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnzr/Address-Book-with-Node.js.git"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "addressbook"
+  ],
+  "author": "Ratul Minhaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mnzr/Address-Book-with-Node.js/issues"
+  },
+  "homepage": "https://github.com/mnzr/Address-Book-with-Node.js#readme"
+}
